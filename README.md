@@ -1,7 +1,7 @@
-# Guides to install FaceFusion:
+## Guides to install FaceFusion:
 https://www.youtube.com/watch?v=oYlauViR_y4
 
-## Open terminal
+## Open terminal on mac
 Installation link: https://docs.facefusion.io/installation
 
 ### 1. GIT:
