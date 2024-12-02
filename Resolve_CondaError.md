@@ -1,18 +1,12 @@
-## Activate your facefusion:
-```bash
-conda activate facefusion
+## 1. Activate your facefusion:
+Run this command: ```conda activate facefusion```
 
-Adter running the command, it display the message:
-```CondaError: Run 'conda init' before 'conda activate’```
+After running the command, it display the message: ```CondaError: Run 'conda init' before 'conda activate```
 
-## Solution — Source the shell configuration
-Run the following command to reload your shell configuration (for mac):
-```bash
-source ~/.zshrc
 
-Try activating the environment again:
-```bash
-conda activate facefusion```
+## 2. Solution — Source the shell configuration
+Run the following command to reload your shell configuration (for mac): ```source ~/.zshrc```
 
-The status changed:
-```(facefusion) username@```
+Try activating the environment again: ```conda activate facefusion```
+
+The status changed: ```(facefusion) username@```
