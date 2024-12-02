@@ -4,17 +4,17 @@ https://www.youtube.com/watch?v=oYlauViR_y4
 ## Open terminal on mac
 Installation link: https://docs.facefusion.io/installation
 
-### 1. GIT:
+1. GIT:
 ```bash
 brew install git
 ```
 
-### 2. Conda:
+2. Conda:
 ```bash
 brew install miniconda
 ```
 
-### 3. FFmpeg:
+3. FFmpeg:
 ```bash
 brew install ffmpeg
 ```
@@ -42,17 +42,17 @@ conda deactivate
 
 
 ## Download your copy
-### 1. Git clone
+1. Git clone
 ```bash
 git clone https://github.com/facefusion/facefusion
 ```
 
-### 2. Enter the directory:
+2. Enter the directory:
 ```bash
 cd facefusion
 ```
 
-### 3. Run script the avoid the installation error:
+3. Run script the avoid the installation error:
 ```bash
 python install.py --onnxruntime default
 ```
